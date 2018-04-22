@@ -13,7 +13,7 @@ This project trains a skip-gram Word2vec model in order to make accurate inferen
 
 ### Data and Models
 - Processed training data can be found [here](http://people.ischool.berkeley.edu/~samuel.goodgame/neural_net_data/)
-- The final model (and its associated files) can be found [here](http://people.ischool.berkeley.edu/~samuel.goodgame/neural_net_models
+- The final model (and its associated files) can be found [here](http://people.ischool.berkeley.edu/~samuel.goodgame/neural_net_models)
 - The Stackoverflow data in its original form can be found [here](https://archive.org/download/stackexchange)
 
 For more detailed information, check out the paper (the PDF entitled *"Goodgame Word2vec for Skills"*).
