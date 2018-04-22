@@ -1,0 +1,11 @@
+Embedding Dimensions,Window Size,Algorithm,Score
+300,15,Skip-Gram,398
+600,12,Skip-Gram,340
+300,10,Skip-Gram,286
+200,8,Skip-Gram,234
+600,5,Skip-Gram,162
+400,5,Skip-Gram,160
+200,5,Skip-Gram,155
+100,5,Skip-Gram,149
+100,5,CBOW,17
+50,5,CBOW,15

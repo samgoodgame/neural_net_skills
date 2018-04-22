@@ -1,0 +1,200 @@
+Error 0. -542.1328125
+Correct: kubernete commonly stylize as k8s be an open source system for automate deployment scaling and management of containerized application that be originally design by google and now maintain by the cloud native computing foundation
+Incorrect: dyndns commonly stylize as k8s be an open source system for automate deployment scaling and management of ramdajs application that be originally design by google and now maintain by the cloud native computing foundation
+
+Error 1. -393.1036376953125
+Correct: the indented syntax and scss file be traditionally give the extension sass and scss respectively
+Incorrect: the indented syntax and stress_load file be traditionally give the extension sass and stress_load respectively
+
+Error 2. -302.9736328125
+Correct: in with download a day umbraco be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival dotnetnuke and be the 12th most downloaded application from codeplex six place below dotnetnuke and place high than mojoportal
+Incorrect: in with download a day t_sql be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival stress_load django and be the 12th most downloaded application from codeplex six place below stress_load django and place high than mojoportal
+
+Error 3. -290.279296875
+Correct: although these tool be often develop specifically for use in bdd project -PRON- can be see as specialized form of the tooling that support test drive development
+Incorrect: although these tool be often develop specifically for use in datamining project -PRON- can be see as specialized form of the tooling that support test drive development
+
+Error 4. -287.42578125
+Correct: zookeeper be use by company include rackspace yahoo odnoklassniki reddit netapp solidfire and ebay as well as open source enterprise search system like solr
+Incorrect: glmnet be use by company include rackspace yahoo odnoklassniki reddit blueprint solidfire and ebay as well as open source enterprise search system like solr
+
+Error 5. -287.054443359375
+Correct: balsamiq studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+Incorrect: teamreview studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+
+Error 6. -283.236572265625
+Correct: esx esxi be the primary component in the vmware infrastructure software suite
+Incorrect: totalview orm be the primary component in the d3 infrastructure software suite
+
+Error 7. -282.0562744140625
+Correct: gnus blur the distinction between news and e mail treat -PRON- both as article that come from different source
+Incorrect: datamin blur the distinction between news and e mail treat -PRON- both as article that come from different source
+
+Error 8. -281.8359375
+Correct: as a podcast advertiser mailchimp also sponsor the launch of serial a podcast explore a murder case over multiple episode
+Incorrect: as a podcast advertiser visual_basic also sponsor the launch of serial a podcast explore a murder case over multiple episode
+
+Error 9. -281.4205322265625
+Correct: a wide choice of compiler and other tool to use with wxwidget facilitate development of sophisticated application
+Incorrect: a wide choice of compiler and other tool to use with ramdajs facilitate development of sophisticated application
+
+Error 10. -280.8861083984375
+Correct: today -PRON- be maintain by employee of red hat netapp and many other volunteer
+Incorrect: today -PRON- be maintain by employee of red hat ramdajs and many other volunteer
+
+Error 11. -276.136962890625
+Correct: bdb store arbitrary key data pair as byte array and support multiple datum item for a single key
+Incorrect: ramda.js store arbitrary key data pair as byte array and support multiple datum item for a single key
+
+Error 12. -272.01220703125
+Correct: powerpivot complement the sql server core bi component under the vision of one business_intelligence semantic model bism which aim to integrate on disk multidimensional analytic previously know as unify dimensional_model udm with a more flexible in memory tabular model
+Incorrect: powerpivot complement the nlp server core ssrs component under the vision of one mandriva semantic model bism which aim to integrate on disk multidimensional analytic previously know as unified sns udm with a more flexible in memory tabular model
+
+Error 13. -271.22509765625
+Correct: this support role make kde a central development hub and home for many popular application and project like calligra suite krita or digikam
+Incorrect: this support role make model_view_controll a central development hub and home for many popular application and project like calligra suite krita or digikam
+
+Error 14. -271.08984375
+Correct: since -PRON- creation the lamp model have be adapt to other componentry though typically consist of free and open source software
+Incorrect: since -PRON- creation the mondrian model have be adapt to other componentry though typically consist of free and open source software
+
+Error 15. -271.013427734375
+Correct: netbackup also enable lan free and server free backup in san fabric environment
+Incorrect: labeled_data also enable lan free and server free backup in san fabric environment
+
+Error 16. -267.82421875
+Correct: coverity be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+Incorrect: v_lookup be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+
+Error 17. -264.74658203125
+Correct: a useful way to think of a semaphore as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+Incorrect: a useful way to think of a oscommerce as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+
+Error 18. -254.610595703125
+Correct: xen project be currently available for the ia x86 and arm instruction set
+Incorrect: merb project be currently available for the ia x86 and arm instruction set
+
+Error 19. -253.893798828125
+Correct: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a webdav server or syncml
+Incorrect: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a oscommerce server or syncml
+
+Error 20. -251.8433837890625
+Correct: openvpn allow peer to authenticate each other use pre share secret key certificate or username password
+Incorrect: yardis allow peer to authenticate each other use pre share secret key certificate or username password
+
+Error 21. -251.82666015625
+Correct: gremlin work for both oltp base graph_databas as well as olap base graph processor
+Incorrect: zookeeper work for both etl base graph_databas as well as scjp base graph processor
+
+Error 22. -251.127685546875
+Correct: simple architecture the architecture of zookeeper be quite simple as there be a share hierarchical namespace which help coordinate the process
+Incorrect: simple architecture the architecture of btrieve be quite simple as there be a share hierarchical namespace which help coordinate the process
+
+Error 23. -250.42529296875
+Correct: clearqu be an enterprise level workflow automation tool from the rational software division of ibm
+Incorrect: gnu be an enterprise level timeline.js automation tool from the rational software division of ibm
+
+Error 24. -244.1712646484375
+Correct: blackbox have specific design goal and some functionality be provide only through other application
+Incorrect: rexx have specific design goal and some functionality be provide only through other application
+
+Error 25. -243.641357421875
+Correct: in compute open datum protocol odata be an open protocol which allow the creation and consumption of queryable and interoperable restful apis in a simple and standard way
+Incorrect: in compute open datum protocol perl be an open protocol which allow the creation and consumption of queryable and interoperable user_experience_research apis in a simple and standard way
+
+Error 26. -243.272705078125
+Correct: mvvm be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+Incorrect: gnucash be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+
+Error 27. -242.7548828125
+Correct: cobol statement have an english like syntax which be design to be self document and highly readable
+Incorrect: lodashjs statement have an english like syntax which be design to be self document and highly readable
+
+Error 28. -241.0078125
+Correct: citrix have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+Incorrect: stress_load have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+
+Error 29. -239.115478515625
+Correct: bi technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+Incorrect: timeline.js technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+
+Error 30. -237.4608154296875
+Correct: the tool serve to add automation to the ubiquitous language that be a central theme of bdd
+Incorrect: the tool serve to add automation to the ubiquitous language that be a central theme of oscommerce
+
+Error 31. -237.37060546875
+Correct: atdd encompass many of the same practice as specification by example behavior drive development bdd example drive development edd and support drive development also call story test drive development sdd
+Incorrect: spotfire encompass many of the same practice as specification by example behavior drive development btrieve example drive development edd and support drive development also call story test drive development sdd
+
+Error 32. -235.6552734375
+Correct: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the mapreduce framework come into play
+Incorrect: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the lodash.js framework come into play
+
+Error 33. -234.46484375
+Correct: espresso have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+Incorrect: oracle_db2 have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+
+Error 34. -234.39404296875
+Correct: in aw comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+Incorrect: in xbmc comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+
+Error 35. -234.39166259765625
+Correct: cucumber be a software tool use by computer programmer for test other software
+Incorrect: yardis be a software tool use by computer programmer for test other software
+
+Error 36. -234.318359375
+Correct: by design a blockchain be inherently resistant to modification of the datum
+Incorrect: by design a gnucash be inherently resistant to modification of the datum
+
+Error 37. -233.49755859375
+Correct: gaussian smoothing be also use as a pre processing stage in computer vision algorithm in order to enhance image structure at different scale see scale space representation and scale space implementation
+Incorrect: datamining smoothing be also use as a pre processing stage in computer vision algorithm in order to enhance image structure at different scale see scale space representation and scale space implementation
+
+Error 38. -227.980224609375
+Correct: -PRON- be maintain by the django software foundation dsf an independent organization establish as a c non profit
+Incorrect: -PRON- be maintain by the mrtg software foundation dsf an independent organization establish as a c non profit
+
+Error 39. -226.6058349609375
+Correct: amazon maintain a software fork of apache hive include in amazon elastic mapreduce on amazon_web_service
+Incorrect: amazon maintain a software gitflow of db2dart versionone include in amazon mingw teamreview on columnar
+
+Error 40. -224.19586181640625
+Correct: a first community technology preview of xna build be release on march
+Incorrect: a first community technology preview of pptp build be release on march
+
+Error 41. -223.52392578125
+Correct: in september bitbucket announce -PRON- have reach million developer and team on -PRON- platform
+Incorrect: in september rexx announce -PRON- have reach million developer and team on -PRON- platform
+
+Error 42. -223.333984375
+Correct: xunit be the collective name for several unit_testing framework that derive -PRON- structure and functionality from smalltalk s sunit
+Incorrect: borland be the collective name for several labeled_data framework that derive -PRON- structure and functionality from cmake s sunit
+
+Error 43. -222.49365234375
+Correct: list and hash can contain nested list and hash form a tree structure arbitrary graph can be represent use yaml alias similar to xml in soap
+Incorrect: list and hash can contain nested list and hash form a tree structure arbitrary graph can be represent use ramdajs alias similar to xml in soap
+
+Error 44. -222.2725830078125
+Correct: frequently there be profit and loss p l responsibility as a key metric for evaluate product manager performance
+Incorrect: frequently there be profit and loss p l responsibility as a key totalview for evaluate product manager performance
+
+Error 45. -221.50146484375
+Correct: cpan can denote either the archive network -PRON- or the perl program that act as an interface to the network and as an automate software installer somewhat like a package manager
+Incorrect: datameer can denote either the archive network -PRON- or the db2trace program that act as an interface to the network and as an automate software installer somewhat like a package manager
+
+Error 46. -221.4649658203125
+Correct: long produce by spss inc -PRON- be acquire by ibm in
+Incorrect: long produce by stress_load inc -PRON- be acquire by ibm in
+
+Error 47. -219.099609375
+Correct: html5 include detailed processing model to encourage more interoperable implementation -PRON- extend improve and rationalize the markup available for document and introduce markup and application programming interface api for complex web application
+Incorrect: dyndns include detailed processing model to encourage more interoperable implementation -PRON- extend improve and rationalize the markup available for document and introduce markup and application programming interface api for complex web application
+
+Error 48. -216.650390625
+Correct: mercurial have also take step to ease the transition for user of other version_control system particularly subversion
+Incorrect: macro have also take step to ease the transition for user of other ocaml system particularly scilab
+
+Error 49. -216.32861328125
+Correct: cassandra offer robust support for cluster span multiple datacenter with asynchronous masterless replication allow low latency operation for all client
+Incorrect: prestashop offer robust support for cluster span multiple datacenter with asynchronous masterless replication allow low latency operation for all client
+

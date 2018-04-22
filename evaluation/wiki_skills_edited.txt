@@ -1,0 +1,892 @@
+.net
+a/b testing
+acp
+actionscript
+activemq
+activerecord
+addthis
+adf
+adhoc
+after effects
+agile
+ai
+airwatch
+aix
+ajax
+akka (toolkit)
+application lifecycle management
+amazon web services
+amqp
+angularjs
+angular 2
+anomaly detection
+ansible
+apache software foundation
+api
+appcelerator
+aptana
+arcgis
+artificial intelligence
+as400
+asp
+asp.net
+association rules
+asynchronous i/o
+atdd
+automated testing framework
+atlassian
+atom (web standard)
+aurelia
+aurora
+autocad
+autohotkey
+autoit
+autosys
+autotools
+axure
+azure
+babel
+backbonejs
+backpropagation
+bootstrap aggregation
+balsamiq
+baseline
+bash (unix shell)
+bayesian probability
+berkeley db
+binary decision diagram
+borland database engine
+beanstalk
+bibtex
+big data
+bigtable
+bitbucket
+blackbox
+blockchain
+bluemix
+blueprint
+business object
+bootstraping (statistics)
+borland
+bower (software)
+business process outsourcing
+branch (computer science)
+bsd
+btrieve
+bugzilla
+business intelligence
+c
+c#
+c++
+cache (computing)
+caml
+canary
+canvas
+capybara
+cassandra
+cdh
+celery
+cento
+ceph (software)
+cfml
+charles proxy
+chef (software)
+ci
+citrix
+clearcase
+clearquest
+cli
+clojure
+cloud compute
+cloud foundry
+cloudfront
+cluster analysis
+cmake
+cmdb
+cobol
+cockroachdb
+cod ui
+code repository
+code review
+coffeescript
+cognos
+coldfusion
+collibra
+columnar
+com
+command line interface
+compiled language
+compute storage
+computer science
+computer vision
+concurrency
+confluence (software)
+container docker
+containerized
+continuous integration
+control group
+corba
+cordova
+cosmo
+couchbase
+couchdb
+coverity
+cpan
+adobe creative cloud
+adobe creative suite
+customer relationship management
+crucible
+css
+css3
+cube
+cucumber (software)
+cygwin
+d3js
+dashboard (software)
+data factory
+data pipeline
+data science
+data warehouse
+database schema
+database server
+datagrid
+dataguard
+datamart
+datameer
+datamining
+datastage
+datastore
+datatables
+dax
+db2
+db2dart
+db2pd
+db2trace
+dbms
+dbs (software)
+ddl
+debian
+decision tree
+declarative
+deep learning
+delphi
+dependency injection
+deployment tag
+destructive testing
+detailed description
+devexpress
+dhtml
+dijkstra
+dimensional model
+dimensional modeling
+django
+dlls
+dml
+docker
+docker
+dojo
+domo
+dotnet
+dotnetnuke
+dreamweaver
+dropwizard
+drupal
+dtrace
+dynamo
+dynamo db
+dynamodb
+dyndns
+e2e
+ec2
+eclipse
+ecs
+edw
+efs
+eis
+elastic
+elastic search
+elasticache
+elasticsearch
+elb
+electron
+elixir
+elm
+emacs
+ember
+ember.js
+emberjs
+ensemble
+enzyme
+erlang
+erwin
+es6
+esb
+espresso
+esx
+esxi
+etcd
+etl
+excel
+express.js
+extjs
+extract transform load
+ffmpeg
+fiddler
+filemaker
+firebase
+firebug
+fireworks
+fitnesse
+flask
+flinto
+flux
+fork
+fortran
+foss
+foxpro
+freebsd
+freescale
+frequentist
+fsm
+functional regression
+gaap
+gaussian
+gcc
+gce
+gcp
+gdb
+geoserver
+gerrit
+ggplot2
+gherkin
+git
+gitflow
+github
+gitlab
+glassfish
+glmnet
+glue
+gnu
+gnucash
+gnumeric
+gnus
+go lang
+golang
+google cloud
+google compute
+google doc
+google docs
+google sheet
+google sheets
+google tag manager
+googlemaps
+gradle
+grail
+graph database
+graph db
+graph search
+graph theory
+graphql
+graphviz
+greenplum
+gremlin
+gridview
+groovy
+grpc
+grunt
+gtk
+gtm
+gulp
+gvim
+gwt
+hana
+haproxy
+hash bucket
+hash buckets
+haskell
+haxe
+hazelcast
+heroku
+highcharts
+hipchat
+hive
+hpc
+hpux
+html
+html5
+hyper parameter
+hyperion
+hyperv
+hypervisor
+hypothesis test
+hypothesis testing
+iaa
+iaas
+iaas
+icalendar
+idq
+iis
+illustrator
+imap
+impact evaluation
+indesign
+influxdb
+informatica
+information systems
+ingres
+intellij
+invision
+ioc
+ionic
+ipython
+iseries
+j2ee
+jama
+jasmine
+java
+java8
+javadoc
+javascript
+jbehave
+jboss
+jbpm
+jcl
+jdbc
+jdk
+jenkins
+jest
+jetty
+jira
+jmeter
+jmp
+jmp
+jms
+jquery
+jre
+js
+jscript
+julia
+junit
+jvm
+jython
+kafka
+karma
+kde
+knime
+knockout.js
+knockoutjs
+kotlin
+kubernetes
+kubuntu
+kvm
+labeled data
+labview
+lambda
+lamp
+lamp stack
+laravel
+leaflet
+linq
+linux
+loadrunner
+lodash.js
+lodashjs
+looker
+lstm
+lua
+lucene
+lvm
+machine learning
+macports
+macro
+macros
+mailchimp
+mainframe
+makefile
+mamp
+mandriva
+map/reduce
+mapreduce
+mariadb
+marklogic
+math
+mathematica
+matplotlib
+maven
+mcts
+mdx
+mef
+memcache
+memsql
+merb
+mercurial
+mesos
+messaging protocol
+metasploit
+meteor
+metric
+mfc
+micro service
+microservice
+microsoft excel
+microsoft.net
+microstrategy
+midp
+mingw
+minitab
+ml
+mocha
+mockito
+model view controller
+mondrian
+mongo db
+mongodb
+mpi
+mqtt
+mrtg
+ms excel
+msbuild
+mssql
+msvc
+mvc
+mvvm
+mysql
+nagios
+naive bayes
+natural language processing
+natural language understanding
+nearest neighbor
+nearest neighbors
+neo4j
+neo4j
+netapp
+netbackup
+netbeans
+netezza
+netty
+neural net
+neural network
+neuroscience
+newly
+nexus
+nginx
+nhibernate
+nifi
+nightly
+nix
+nlp
+node
+node.js
+nodejs
+non relational
+nosql
+npm
+nsis
+nsx
+ntp
+nuget
+numpy
+nunit
+oauth
+obiee
+object oriented
+objective c
+ocaml
+ocp
+ocr
+odata
+odbc
+odi
+olap
+oltp
+omnigraffle
+omniture
+oo
+ooad
+ood
+oop
+openal
+openerp
+openfire
+openjdk
+openldap
+openmp
+openoffice
+openroad
+openshift
+openssh
+openstack
+openvms
+openvpn
+openwrt
+operating system
+oracle 11
+oracle 12c
+oracle db2
+orchestrator
+orm
+oscommerce
+owasp
+paas
+page object
+panda
+pascal
+paxata
+pdb
+pearl
+pentaho
+perceptron
+perforce
+periscope
+perl
+persistence layer
+photoshop
+php
+phpunit
+pig
+pivot table
+pivotal
+pl sql
+plone
+plsql
+polymer
+postfix
+postgis
+postgre
+postgres
+postgresql
+postgressql
+postman
+power bi
+power pivot
+power point
+powerbi
+powerpoint
+powershell
+ppt
+pptp
+predictive modeling
+prestashop
+prism
+private cloud
+procedural language
+product management
+product owner
+program management
+programing language
+programmatic manner
+programming language
+programming languages
+project management
+prolog
+proper
+proto.io
+protobuf
+public cloud
+puppet
+pxe
+pypi
+pyqt
+python
+python2
+python3
+pytorch
+qa tester
+qlik
+qlikview
+qtp
+quartz
+qubole
+quicksight
+r
+r12
+r2
+rabbit mq
+rabbitmq
+rails
+rally
+ramda.js
+ramdajs
+ranorex
+rapidminer
+razor
+rcp
+rdb
+rdbms
+rdf
+rdms
+rdp
+rds
+react native
+react.js
+reactjs
+readline
+redgate
+redhat
+redis
+redmine
+redux
+regex
+regression
+regressions
+reinforcement learning
+relational database
+relational databases
+relational db
+repo
+restful
+restful microservice
+reverse engineer
+revision control
+rexx
+rhapsody
+rhel
+rman
+ror
+route53
+rpc
+rpm
+rspec
+rstudio
+rtc
+ruby
+rust
+rxjava
+rxjs
+s3
+sail
+sap hana
+sas
+sass
+sauce lab
+saucelab
+scada
+scala
+sccm
+scilab
+scjp
+scm
+scp
+scripting language
+scrum
+scss
+sdl
+selenium
+selinux
+semaphore
+sentry
+serverless
+serverside
+servlets
+sever
+sgi
+sh
+shard
+sharding
+sharepoint
+shell
+shiny
+signalr
+silk
+silverlight
+single page
+sisense
+sitecore
+sketch
+slackware
+sles
+smalltalk
+smarty
+smb
+smoke
+smoke testing
+smtp
+snowflake
+sns
+soa
+soapui
+solaris
+sonar
+sonarqube
+sop
+soql
+sourceforge
+spa
+sparksql
+sparql
+specflow
+sphinx
+spock
+spotfire
+spreadsheet
+spring boot
+spss
+sql
+sql server
+sqlalchemy
+sqlite
+sqls
+sqlserver
+sqs
+ssa
+ssis
+ssm
+ssrs
+stack overflow
+stackoverflow
+standard operating procedure
+star schema
+stash
+stata
+statically typed
+statistical package
+statistics
+stats
+stl
+store procedure
+stress load
+structured query language
+subversion
+sugarcrm
+supervised learning
+support vector
+survival analysis
+svm
+svn
+swf
+swift
+sybase
+symfony
+t sql
+tableau
+talend
+tcl
+tcpip
+teamcity
+teamreview
+telerik
+templat
+template
+teradata
+testable hypothesis
+testcomplete
+testng
+testrail
+tfs
+thrift
+tile
+timeline.js
+timelinejs
+tinymce
+titan
+titan
+tkinter
+toad
+toolchain
+tornado
+Totalview
+trac
+transact sql
+tree model
+tree models
+treeview
+trello
+trifacta
+trigger
+tsql
+tuning
+typescript
+ubuntu
+ucs
+udeploy
+uft
+umbraco
+uml
+unit testing
+unity3d
+unix
+unsupervised learning
+upnp
+user experience research
+uxpin
+v lookup
+valgrind
+vanilla
+varnish
+vb
+vb.net
+vb6
+vba
+vbscript
+vcenter
+vdi
+version control
+versionone
+vetting
+video editing
+virtual machine
+visio
+visual basic
+visualisation
+visualization
+visualstudio
+vlookup
+vm
+vms
+vmware
+vsphere
+vue
+vue.js
+vuejs
+waf
+watir
+wcf
+web services
+webapi
+webapp
+webdav
+webdriver
+webgl
+weblogic
+webpack
+webpage
+webserver
+websphere
+weka
+win32
+winform
+winforms
+wireframe
+wireframing
+wireshark
+wix
+wmi
+wms
+word
+wordpress
+workbench
+workflow
+wpf
+wsdl
+wxpython
+wxwidgets
+xamarin
+xaml
+xbmc
+xcode
+xct
+xd
+xdebug
+xen
+xgboost
+xhtml
+xna
+xunit
+yaml
+yardis
+zend
+zephyr
+zeplin
+zeromq
+zoho
+zookeepe

@@ -1,0 +1,199 @@
+Error 0. -664.48193359375
+Correct: kubernete commonly stylize as k8s be an open source system for automate deployment scaling and management of containerized application that be originally design by google and now maintain by the cloud native computing foundation
+Incorrect: dyndns commonly stylize as k8s be an open source system for automate deployment scaling and management of ramdajs application that be originally design by google and now maintain by the cloud native computing foundation
+
+Error 1. -457.4539794921875
+Correct: the indented syntax and scss file be traditionally give the extension sass and scss respectively
+Incorrect: the indented syntax and stress_load file be traditionally give the extension sass and stress_load respectively
+
+Error 2. -361.808349609375
+Correct: gnus blur the distinction between news and e mail treat -PRON- both as article that come from different source
+Incorrect: datamin blur the distinction between news and e mail treat -PRON- both as article that come from different source
+
+Error 3. -356.922607421875
+Correct: as a podcast advertiser mailchimp also sponsor the launch of serial a podcast explore a murder case over multiple episode
+Incorrect: as a podcast advertiser visual_basic also sponsor the launch of serial a podcast explore a murder case over multiple episode
+
+Error 4. -348.1962890625
+Correct: powerpivot complement the sql server core bi component under the vision of one business_intelligence semantic model bism which aim to integrate on disk multidimensional analytic previously know as unify dimensional_model udm with a more flexible in memory tabular model
+Incorrect: powerpivot complement the nlp server core ssrs component under the vision of one mandriva semantic model bism which aim to integrate on disk multidimensional analytic previously know as unified sns udm with a more flexible in memory tabular model
+
+Error 5. -347.89404296875
+Correct: zookeeper be use by company include rackspace yahoo odnoklassniki reddit netapp solidfire and ebay as well as open source enterprise search system like solr
+Incorrect: glmnet be use by company include rackspace yahoo odnoklassniki reddit blueprint solidfire and ebay as well as open source enterprise search system like solr
+
+Error 6. -345.6597900390625
+Correct: bdb store arbitrary key data pair as byte array and support multiple datum item for a single key
+Incorrect: ramda.js store arbitrary key data pair as byte array and support multiple datum item for a single key
+
+Error 7. -341.6572265625
+Correct: in with download a day umbraco be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival dotnetnuke and be the 12th most downloaded application from codeplex six place below dotnetnuke and place high than mojoportal
+Incorrect: in with download a day t_sql be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival stress_load django and be the 12th most downloaded application from codeplex six place below stress_load django and place high than mojoportal
+
+Error 8. -331.996826171875
+Correct: although these tool be often develop specifically for use in bdd project -PRON- can be see as specialized form of the tooling that support test drive development
+Incorrect: although these tool be often develop specifically for use in datamining project -PRON- can be see as specialized form of the tooling that support test drive development
+
+Error 9. -329.869873046875
+Correct: coverity be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+Incorrect: v_lookup be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+
+Error 10. -327.50927734375
+Correct: a wide choice of compiler and other tool to use with wxwidget facilitate development of sophisticated application
+Incorrect: a wide choice of compiler and other tool to use with ramdajs facilitate development of sophisticated application
+
+Error 11. -325.4893798828125
+Correct: balsamiq studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+Incorrect: teamreview studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+
+Error 12. -325.4462890625
+Correct: since -PRON- creation the lamp model have be adapt to other componentry though typically consist of free and open source software
+Incorrect: since -PRON- creation the mondrian model have be adapt to other componentry though typically consist of free and open source software
+
+Error 13. -324.6962890625
+Correct: this support role make kde a central development hub and home for many popular application and project like calligra suite krita or digikam
+Incorrect: this support role make model_view_controll a central development hub and home for many popular application and project like calligra suite krita or digikam
+
+Error 14. -319.025390625
+Correct: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a webdav server or syncml
+Incorrect: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a oscommerce server or syncml
+
+Error 15. -317.93212890625
+Correct: simple architecture the architecture of zookeeper be quite simple as there be a share hierarchical namespace which help coordinate the process
+Incorrect: simple architecture the architecture of btrieve be quite simple as there be a share hierarchical namespace which help coordinate the process
+
+Error 16. -313.6744384765625
+Correct: openvpn allow peer to authenticate each other use pre share secret key certificate or username password
+Incorrect: yardis allow peer to authenticate each other use pre share secret key certificate or username password
+
+Error 17. -309.59130859375
+Correct: a useful way to think of a semaphore as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+Incorrect: a useful way to think of a oscommerce as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+
+Error 18. -304.85009765625
+Correct: citrix have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+Incorrect: stress_load have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+
+Error 19. -303.5614013671875
+Correct: today -PRON- be maintain by employee of red hat netapp and many other volunteer
+Incorrect: today -PRON- be maintain by employee of red hat ramdajs and many other volunteer
+
+Error 20. -301.9981689453125
+Correct: cobol statement have an english like syntax which be design to be self document and highly readable
+Incorrect: lodashjs statement have an english like syntax which be design to be self document and highly readable
+
+Error 21. -301.0224609375
+Correct: espresso have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+Incorrect: oracle_db2 have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+
+Error 22. -296.9453125
+Correct: netbackup also enable lan free and server free backup in san fabric environment
+Incorrect: labeled_data also enable lan free and server free backup in san fabric environment
+
+Error 23. -295.23193359375
+Correct: bi technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+Incorrect: timeline.js technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+
+Error 24. -295.12890625
+Correct: in aw comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+Incorrect: in xbmc comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+
+Error 25. -294.54736328125
+Correct: mvvm be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+Incorrect: gnucash be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+
+Error 26. -293.71875
+Correct: in compute open datum protocol odata be an open protocol which allow the creation and consumption of queryable and interoperable restful apis in a simple and standard way
+Incorrect: in compute open datum protocol perl be an open protocol which allow the creation and consumption of queryable and interoperable user_experience_research apis in a simple and standard way
+
+Error 27. -292.9556884765625
+Correct: xunit be the collective name for several unit_testing framework that derive -PRON- structure and functionality from smalltalk s sunit
+Incorrect: borland be the collective name for several labeled_data framework that derive -PRON- structure and functionality from cmake s sunit
+
+Error 28. -292.4932861328125
+Correct: the tool serve to add automation to the ubiquitous language that be a central theme of bdd
+Incorrect: the tool serve to add automation to the ubiquitous language that be a central theme of oscommerce
+
+Error 29. -291.0186767578125
+Correct: clearqu be an enterprise level workflow automation tool from the rational software division of ibm
+Incorrect: gnu be an enterprise level timeline.js automation tool from the rational software division of ibm
+
+Error 30. -290.39013671875
+Correct: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the mapreduce framework come into play
+Incorrect: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the lodash.js framework come into play
+
+Error 31. -289.640869140625
+Correct: gremlin work for both oltp base graph_databas as well as olap base graph processor
+Incorrect: zookeeper work for both etl base graph_databas as well as scjp base graph processor
+
+Error 32. -287.894775390625
+Correct: amazon maintain a software fork of apache hive include in amazon elastic mapreduce on amazon_web_service
+Incorrect: amazon maintain a software gitflow of db2dart versionone include in amazon mingw teamreview on columnar
+
+Error 33. -284.8394775390625
+Correct: mercurial have also take step to ease the transition for user of other version_control system particularly subversion
+Incorrect: macro have also take step to ease the transition for user of other ocaml system particularly scilab
+
+Error 34. -281.80322265625
+Correct: gaussian smoothing be also use as a pre processing stage in computer vision algorithm in order to enhance image structure at different scale see scale space representation and scale space implementation
+Incorrect: datamining smoothing be also use as a pre processing stage in computer vision algorithm in order to enhance image structure at different scale see scale space representation and scale space implementation
+
+Error 35. -279.401123046875
+Correct: cassandra offer robust support for cluster span multiple datacenter with asynchronous masterless replication allow low latency operation for all client
+Incorrect: prestashop offer robust support for cluster span multiple datacenter with asynchronous masterless replication allow low latency operation for all client
+
+Error 36. -277.594482421875
+Correct: list and hash can contain nested list and hash form a tree structure arbitrary graph can be represent use yaml alias similar to xml in soap
+Incorrect: list and hash can contain nested list and hash form a tree structure arbitrary graph can be represent use ramdajs alias similar to xml in soap
+
+Error 37. -275.07861328125
+Correct: html5 include detailed processing model to encourage more interoperable implementation -PRON- extend improve and rationalize the markup available for document and introduce markup and application programming interface api for complex web application
+Incorrect: dyndns include detailed processing model to encourage more interoperable implementation -PRON- extend improve and rationalize the markup available for document and introduce markup and application programming interface api for complex web application
+
+Error 38. -274.99658203125
+Correct: atdd encompass many of the same practice as specification by example behavior drive development bdd example drive development edd and support drive development also call story test drive development sdd
+Incorrect: spotfire encompass many of the same practice as specification by example behavior drive development btrieve example drive development edd and support drive development also call story test drive development sdd
+
+Error 39. -271.738525390625
+Correct: regression model for prediction be often useful even when the assumption be moderately violate although -PRON- may not perform optimally
+Incorrect: btrieve model for prediction be often useful even when the assumption be moderately violate although -PRON- may not perform optimally
+
+Error 40. -271.37548828125
+Correct: frequently there be profit and loss p l responsibility as a key metric for evaluate product manager performance
+Incorrect: frequently there be profit and loss p l responsibility as a key totalview for evaluate product manager performance
+
+Error 41. -270.091064453125
+Correct: blackbox have specific design goal and some functionality be provide only through other application
+Incorrect: rexx have specific design goal and some functionality be provide only through other application
+
+Error 42. -267.45355224609375
+Correct: esx esxi be the primary component in the vmware infrastructure software suite
+Incorrect: totalview orm be the primary component in the d3 infrastructure software suite
+
+Error 43. -263.904296875
+Correct: -PRON- provide powerful text processing facility without the arbitrary datum length limit of many contemporary unix commandline tool facilitate easy manipulation of text file
+Incorrect: -PRON- provide powerful text processing facility without the arbitrary datum length limit of many contemporary lamp datamining tool facilitate easy manipulation of text file
+
+Error 44. -263.69482421875
+Correct: -PRON- lead developer be michael monty widenius one of the founder of mysql ab and the founder of monty program ab
+Incorrect: -PRON- lead developer be michael monty widenius one of the founder of datamin ab and the founder of monty program ab
+
+Error 45. -261.4320068359375
+Correct: -PRON- be maintain by the django software foundation dsf an independent organization establish as a c non profit
+Incorrect: -PRON- be maintain by the mrtg software foundation dsf an independent organization establish as a c non profit
+
+Error 46. -259.484130859375
+Correct: the rabbitmq server be write in the erlang programming_language and be build on the open telecom platform framework for clustering and failover
+Incorrect: the perl server be write in the dyndns clojure and be build on the open telecom platform framework for clustering and failover
+
+Error 47. -258.67529296875
+Correct: css3 consist of a series of selector and pseudo selector that group rule that apply to -PRON-
+Incorrect: glmnet consist of a series of selector and pseudo selector that group rule that apply to -PRON-
+
+Error 48. -257.521728515625
+Correct: detect the failure can be accomplish use a sound detector or stress gauge which produce a signal to trigger the high speed camera
+Incorrect: detect the failure can be accomplish use a sound detector or stress gauge which produce a signal to stress_load the high speed camera
+
+Error 49. -255.984130859375
+Correct: kubuntu kuu buun too be an official flavour of the ubuntu operating_system which use the kde plasma desktop instead of the gnome desktop environment
+Incorrect: orm kuu buun too be an official flavour of the oracle_db2 declarative which use the agile plasma desktop instead of the gnome desktop environment

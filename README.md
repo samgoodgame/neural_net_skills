@@ -1,17 +1,18 @@
-# neural_net_skills
+# Training Machines to Learn about Machine Learning
 _A neural network language model to show relationships between skills_
 
 ![What skills are the most closely related?](./assets/data.png "Which skills should I pick up?")
 
 ### Overview
-This project trains a skip-gram Word2vec model in order to make accurate inferences about technical skills. The primary source of training data is a corpus of 40,000 job descriptions scraped from the Internet. I'm working on secondary sources. The practical use case of this model is to be able to generate a canonical list of technical skills and elucidate the relationships between them. The model is assessed using the same analogy tasks that the original Word2vec paper proposed. The baseline accuracy of this model on a set of 1,954 general language model analogy tasks is 18.17% -- but those tasks aren't really tailored for a job-related dataset, so the tasks themselves need some editing.
+This project trains a skip-gram Word2vec model in order to make accurate inferences about technical skills. The training data comes from 106,000 job descriptions scraped from the Internet, along with all posts from Stackoverflow with a score greater than 25. The resulting model has many practical uses, including the ability to generate a canonical list of technical skills and the ability to elucidate the relationships between them. Using the same analogy tasks that the original Word2vec paper proposed, the baseline accuracy of this model on a set of 1,954 general language model analogy tasks is 18.17%, and the final model achieved 28.08% accuracy on the same set. However, this paper proposes a novel evaluation method designed specifically for this data and task. The evaluation process involves three steps:
+1.  Collecting sentences from Wikipedia from articles about technical skills;
+2.  “Corrupting” the sentences by replacing the skill words with randomly selected incorrect skill words; and
+3.  Evaluating how likely the model deems the set of correct sentences relative to the corrupted sentences.
 
-#### Data:
-- Job description data (~40,000 JDs), scraped from the Internet
-- Stackoverflow data, via their API.
-  - Status: POC compete; just need to figure out what query I want.
-- Possible: Department of Labor [O*NET Database](https://www.onetonline.org/) and [My Next Move](https://www.mynextmove.org/) site
-  - Status: database uploaded locally; I just need to extract the text and format it for ingestion
+**The best-performing model was a skip-gram Word2vec model with a 300 embedding dimensions and a window size of 15. Adjusting window size had the most significant effect on accuracy.**
 
-#### Possible additional methods
-- Cross-train the Google Word2vec model. Start with it, then add all of my current data as additional training. This should help it perform generally, as well as with job-specific tasks.
+### Data and Models
+- Data can be found here:
+- The baseline model and final model (and their associated files) can be found here: http://people.ischool.berkeley.edu/~samuel.goodgame/neural_net_models/
+
+For more detailed information, check out the paper (in this repository).

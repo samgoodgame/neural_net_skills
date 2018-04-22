@@ -1,0 +1,411 @@
+(['coverity'], ['smalltalk'])	1
+(['bayesian'], ['java'])	1
+(['c'], ['v_lookup'])	1
+(['indesign'], ['node'])	1
+(['trello', 'project_management', 'atlassian'], ['autotool', 'javadoc', 'css'])	1
+(['sql', 'bi', 'business_intelligence', 'dimensional_model'], ['nlp', 'ssrs', 'mandriva', 'sns'])	1
+(['blockchain'], ['ffmpeg'])	1
+(['openal'], ['prism'])	1
+(['openvpn'], ['hpc'])	1
+(['jscript'], ['scp'])	1
+(['semaphore'], ['oscommerce'])	1
+(['blackbox'], ['freebsd'])	1
+(['umbraco'], ['wordpress'])	1
+(['openwrt'], ['saucelab'])	1
+(['bpo'], ['selinux'])	1
+(['ingre'], ['nhibernate'])	1
+(['silverlight'], ['macro'])	1
+(['java', 'virtual_machine'], ['dbs', 'testable_hypothesis'])	1
+(['coverity'], ['v_lookup'])	1
+(['coverity'], ['mfc'])	1
+(['qlik'], ['data_science'])	1
+(['confluence'], ['graph_search'])	1
+(['version_control', 'scm', 'git'], ['pascal', 'debian', 'merb'])	1
+(['blackbox'], ['slackware'])	1
+(['msvc'], ['bash'])	1
+(['vetting'], ['rdp'])	1
+(['blockchain'], ['gnucash'])	1
+(['dtrace'], ['spreadsheet'])	1
+(['webdav'], ['oscommerce'])	1
+(['eclipse'], ['metric'])	1
+(['wireframe', 'wireframe'], ['wireframe', 'ruby'])	1
+(['valgrind'], ['objective_c'])	1
+(['svm'], ['kotlin'])	1
+(['clearcase', 'scm'], ['prolog', 'php'])	1
+(['github'], ['labeled_data'])	1
+(['netezza'], [])	1
+(['dax'], ['objective_c'])	1
+(['sugarcrm'], ['columnar'])	1
+(['marklogic', 'nosql'], ['jquery', 'sdl'])	1
+(['alm'], ['scrum'])	1
+(['scada'], ['nifi'])	1
+(['sparql', 'sql'], ['lodash.js', 'powerbi'])	1
+(['sugarcrm'], ['mrtg'])	1
+(['loadrunner'], ['cfml'])	1
+(['gerrit'], ['swift'])	1
+(['dax'], ['d3'])	1
+(['rdf'], ['single_page'])	1
+(['sql', 'sql', 'btrieve'], ['openfire', 'openfire', 'mamp'])	1
+(['metasploit'], ['vm'])	1
+(['dreamweaver'], ['crm'])	1
+(['grpc', 'rpc'], ['neural_network', 'jdk'])	1
+(['c'], ['merb'])	1
+(['mercurial', 'version_control', 'subversion'], ['macro', 'ocaml', 'scilab'])	1
+(['html5', 'api'], ['dyndns', 'api'])	1
+(['silverlight'], ['pl_sql'])	1
+(['haxe'], ['proper'])	1
+(['bigtable'], ['powershell'])	1
+(['webdav'], ['c'])	1
+(['elasticache', 'api'], ['ucs', 'mondrian'])	1
+(['knime', 'sas'], ['canvas', 'kubernete'])	1
+(['statistic'], ['mockito'])	1
+(['nagio'], ['rabbitmq'])	1
+(['trifacta'], ['neural_network'])	1
+(['rapidminer'], ['groovy'])	1
+(['paxata'], ['debian'])	1
+(['actionscript'], ['sql'])	1
+(['css3'], ['glmnet'])	1
+(['bpo'], ['xdebug'])	1
+(['rust'], ['detailed_description'])	1
+(['ubuntu', 'kubuntu'], ['servlet', 'haskell'])	1
+(['cassandra'], ['prestashop'])	1
+(['greenplum'], ['bi'])	1
+(['umbraco', 'dotnetnuke', 'dotnetnuke'], ['t_sql', 'stress_load', 'django', 'stress_load', 'django'])	1
+(['testcomplete'], ['jest'])	1
+(['atlassian', 'crucible'], ['beanstalk', 'html5'])	1
+(['haxe'], ['makefile'])	1
+(['esx', 'elastic'], ['wcf', 'canary'])	1
+(['github'], ['graph_search'])	1
+(['netbackup'], ['labeled_data'])	1
+(['mailchimp'], ['c'])	1
+(['bsd', 'openldap'], ['stack_overflow', 'weka'])	1
+(['trigger'], ['stress_load'])	1
+(['powerpoint'], ['webdriver'])	1
+(['openssh', 'fork'], ['mysql', 'sh'])	1
+(['caml', 'ocaml'], ['unit_testing', 'dml'])	1
+(['visualization'], ['vue'])	1
+(['fork', 'apache', 'hive', 'elastic', 'mapreduce', 'amazon_web_service'], ['gitflow', 'db2dart', 'versionone', 'mingw', 'teamreview', 'columnar'])	1
+(['blockchain'], ['protobuf'])	1
+(['upnp', 'cli'], ['labeled_data'])	1
+(['haxe'], ['perforce'])	1
+(['eclipse'], ['javadoc'])	1
+(['gerrit'], ['redhat'])	1
+(['emacs'], ['aurelia'])	1
+(['haproxy'], ['julia'])	1
+(['ec2', 'virtual_machine'], ['foxpro', 'dax'])	1
+(['haxe'], ['kvm'])	1
+(['talend'], ['karma'])	1
+(['stata', 'word', 'statistic'], ['mercurial', 'word', 'shiny'])	1
+(['citrix'], ['grunt'])	1
+(['xhtml'], ['foxpro'])	1
+(['espresso'], ['oracle_db2'])	1
+(['haxe'], ['shell'])	1
+(['serverless', 'microservice'], ['bitbucket', 'microservice'])	1
+(['aurora', 'rd'], ['jquery', 'postfix'])	1
+(['kubuntu'], ['matplotlib'])	1
+(['template'], ['scilab'])	1
+(['shell', 'linux'], ['atom', 'db2trace'])	1
+(['gnu'], ['r'])	1
+(['puppet'], ['repo'])	1
+(['javadoc'], ['c'])	1
+(['sourceforge'], ['jetty'])	1
+(['soapui'], ['stl'])	1
+(['mongodb'], ['stress_load'])	1
+(['wmi', 'scripting_language', 'vbscript', 'powershell'], ['winform', 'scripting_language', 'hyper_parameter', 'weka'])	1
+(['mqtt'], ['single_page'])	1
+(['elixir'], ['asp'])	1
+(['vmware', 'esx', 'esxi'], ['jenkin', 'memsql', 'html'])	1
+(['bluemix'], ['zend'])	1
+(['concurrency'], ['newly'])	1
+(['mamp'], ['rust'])	1
+(['tcl', 'programming_language'], ['trifacta', 'hyper_parameter'])	1
+(['mailchimp'], ['visual_basic'])	1
+(['gnumeric', 'spreadsheet'], ['crm', 'charles'])	1
+(['sonar'], ['selenium'])	1
+(['crucible'], ['glue'])	1
+(['kde', 'debian', 'kubuntu'], ['d3', 'rpm', 'grail'])	1
+(['spss'], ['stress_load'])	1
+(['influxdb'], ['jira'])	1
+(['cucumber'], ['yardis'])	1
+(['silk'], ['single_page'])	1
+(['couchbase'], ['scala'])	1
+(['zookeeper'], ['elixir'])	1
+(['rust'], ['mvvm'])	1
+(['icalendar'], ['commandline'])	1
+(['dax'], ['shell'])	1
+(['mapreduce'], ['scala'])	1
+(['openvpn'], ['pascal'])	1
+(['xct', 'electron'], ['xct', 'msvc'])	1
+(['borland'], ['css'])	1
+(['xna'], ['pptp'])	1
+(['crucible'], ['mdx'])	1
+(['citrix'], ['mandriva'])	1
+(['pearl', 'perl', 'programming_language'], ['odi', 'autotool', 'stress_load'])	1
+(['autoit', 'programming_language'], ['nix', 'wpf'])	1
+(['mvvm'], ['newly'])	1
+(['vba'], ['timeline.js'])	1
+(['elasticsearch', 'lucene'], ['marklogic', 'datamining'])	1
+(['html', 'javascript', 'css', 'webpage'], ['oscommerce', 'declarative', 'mpi', 'webpage'])	1
+(['zookeeper', 'netapp'], ['glmnet', 'blueprint'])	1
+(['java'], ['db2trace'])	1
+(['ceph'], ['gtm'])	1
+(['actionscript'], ['elasticsearch'])	1
+(['java'], ['testable_hypothesis'])	1
+(['kde'], [])	1
+(['elixir'], ['mvvm'])	1
+(['haxe'], ['ai'])	1
+(['icalendar'], ['linux'])	1
+(['delphi'], ['c++'])	1
+(['cache', 'apache', 'nginx', 'varnish'], ['meteor', 'yaml', 'datamining', 'scm'])	1
+(['mockito'], ['haskell'])	1
+(['minitab', 'statistic'], ['delphi', 'lambda'])	1
+(['etl'], ['netbean'])	1
+(['geoserver'], ['rpm'])	1
+(['ocaml', 'caml'], ['restful', 'regression'])	1
+(['knime'], ['eclipse'])	1
+(['backpropagation'], ['graphql'])	1
+(['blackbox', 'c'], ['macport', 'c'])	1
+(['coverity'], ['structured_query_language'])	1
+(['backpropagation'], ['gdb'])	1
+(['netapp'], ['ramdajs'])	1
+(['kubernete', 'containerized'], ['dyndns', 'ramdajs'])	1
+(['webpack', 'javascript'], ['typescript', 'mrtg'])	1
+(['matplotlib', 'python', 'programming_language', 'numpy'], ['bayesian', 'xbmc', 'scp'])	1
+(['addthis'], ['uml'])	1
+(['kubuntu', 'ubuntu', 'operating_system', 'kde'], ['orm', 'oracle_db2', 'declarative', 'agile'])	1
+(['redgate'], ['bpo'])	1
+(['sql'], ['testable_hypothesis'])	1
+(['odata', 'restful'], ['perl', 'user_experience_research'])	1
+(['vbscript'], ['vms'])	1
+(['iserie'], ['stack_overflow'])	1
+(['microsoft_excel', 'spreadsheet'], ['vmware', 'c'])	1
+(['powershell', 'com', 'wmi', 'linux'], ['backbonejs', 'tornado', 'karma', 'user_experience_research'])	1
+(['actionscript'], ['cache'])	1
+(['django', 'c'], ['mrtg', 'c'])	1
+(['cobol'], ['rust'])	1
+(['mysql'], [])	1
+(['atdd'], ['dyndns'])	1
+(['bi'], ['timeline.js'])	1
+(['loadrunner'], ['stata'])	1
+(['fitnesse'], ['mef'])	1
+(['ntp'], ['mandriva'])	1
+(['haskell'], ['ramda.js'])	1
+(['mercurial'], ['win32'])	1
+(['scada'], ['aptana'])	1
+(['bdd'], ['oscommerce'])	1
+(['openshift'], ['cento'])	1
+(['appcelerator'], ['stash'])	1
+(['ingre'], ['macro'])	1
+(['xna'], ['gtk'])	1
+(['gnu', 'gnus'], ['dependency_injection', 'mdx'])	1
+(['mailchimp'], ['firebug'])	1
+(['mapreduce'], ['shard'])	1
+(['silverlight'], ['vm'])	1
+(['xunit', 'unit_testing', 'smalltalk'], ['borland', 'labeled_data', 'cmake'])	1
+(['trifacta'], ['sccm'])	1
+(['zookeeper'], ['btrieve'])	1
+(['unix', 'commandline'], ['lamp', 'datamining'])	1
+(['bugzilla'], ['makefile'])	1
+(['rpm'], ['selenium'])	1
+(['regression'], ['btrieve'])	1
+(['atlassian'], ['winform'])	1
+(['cpan', 'perl'], ['datameer', 'db2trace'])	1
+(['gherkin'], ['rust'])	1
+(['ingre'], ['ubuntu'])	1
+(['gnus'], ['devexpress'])	1
+(['xen'], ['ssa'])	1
+(['nagio'], ['sqs'])	1
+(['bdd'], ['aws'])	1
+(['blockchain'], ['typescript'])	1
+(['balsamiq'], ['teamreview'])	1
+(['rman'], ['com'])	1
+(['unix', 'declarative'], ['midp'])	1
+(['autoit'], ['tuning'])	1
+(['gnu', 'emac'], ['oracle_db2', 'photoshop'])	1
+(['silverlight'], ['babel'])	1
+(['autoit'], ['openshift'])	1
+(['rapidminer'], ['lucene'])	1
+(['kde'], ['jmp'])	1
+(['clearqu', 'workflow'], ['gnu', 'timeline.js'])	1
+(['websphere'], ['canvas'])	1
+(['wxwidget'], ['sql'])	1
+(['backpropagation'], ['influxdb'])	1
+(['phpunit', 'unit_test', 'php', 'programming_language'], ['database_schema', 'deployment_tag', 's3', 'webapi'])	1
+(['couchdb', 'apache'], ['db2dart'])	1
+(['bigtable'], ['sns'])	1
+(['rapidminer', 'data_science', 'machine_learn', 'deep_learn'], ['amqp', 'natural_language_understanding', 'sqlserver', 'wxwidget'])	1
+(['openvms', 'vms'], ['jenkin', 'vms'])	1
+(['arcgis'], ['xunit'])	1
+(['informatica'], ['agile'])	1
+(['openroad'], ['yaml'])	1
+(['hypervisor'], ['powershell'])	1
+(['cogno'], ['wxwidget'])	1
+(['sugarcrm'], ['xd'])	1
+(['autotool'], ['google_doc'])	1
+(['neuroscience', 'neural_network'], ['git', 'neural_network'])	1
+(['neuroscience'], ['clojure'])	1
+(['selenium', 'linux'], ['fsm', 'datamining'])	1
+(['openvms', 'operating_system'], ['amazon_web_service', 'webserver'])	1
+(['sourceforge'], ['julia'])	1
+(['atf'], ['vmware'])	1
+(['bdd'], ['datamining'])	1
+(['cloudfront'], ['laravel'])	1
+(['tkinter'], ['xunit'])	1
+(['apache', 'virtual_machine'], ['lodash.js', 't_sql'])	1
+(['backpropagation', 'supervised_learn'], ['shard', 'cfml'])	1
+(['wpf'], ['pptp'])	1
+(['upnp'], ['hpc'])	1
+([], ['xbmc'])	1
+(['rpm', 'rpm', 'rpm'], ['scp', 'scp', 'scp'])	1
+(['netbackup'], ['tcl'])	1
+(['sybase'], ['database_schema'])	1
+(['cogno', 'business_intelligence'], ['hypervisor', 'neo4j'])	1
+(['powershell'], ['lodash.js'])	1
+(['django'], ['clearquest'])	1
+(['cobol'], ['etl'])	1
+(['bayesian', 'frequentist'], ['supervised_learn', 'ci'])	1
+(['paxata'], ['docker'])	1
+(['jenkin', 'fork', 'eclipse'], ['mrtg', 'wsdl', 'vbscript'])	1
+(['watir'], ['gnu'])	1
+(['drupal', 'php', 'gnu'], ['metric', 'wxwidget', 'scilab'])	1
+(['varnish'], ['webapi'])	1
+(['ddl'], ['javascript'])	1
+(['openvpn'], ['yardis'])	1
+(['mailchimp'], ['gitlab'])	1
+(['db2'], ['restful'])	1
+(['ruby', 'object_orient', 'programming_language'], ['data_pipeline', 'object_orient', 'db2dart'])	1
+(['solaris', 'aix', 'linux'], ['mrtg', 'cygwin', 'gcc'])	1
+(['netapp'], ['wsdl'])	1
+(['sass', 'scripting_language', 'css'], ['jira', 'web_service', 'ramdajs'])	1
+(['rabbitmq', 'erlang', 'programming_language'], ['perl', 'dyndns', 'clojure'])	1
+(['balsamiq'], ['ramda.js'])	1
+(['webgl', 'html'], ['glassfish', 'db2pd'])	1
+(['scripting_language', 'jscript', 'vbscript'], ['scripting_language', 'toolchain', 'r'])	1
+(['lamp'], ['mondrian'])	1
+(['sap_hana'], ['gtm'])	1
+(['powershell'], ['pptp'])	1
+(['bagging'], ['rxjava'])	1
+(['ceph'], ['fsm'])	1
+(['openwrt'], ['servlet'])	1
+(['sourceforge'], ['quartz'])	1
+(['highchart'], ['postfix'])	1
+(['weblogic', 'java'], ['kvm', 'datamining'])	1
+(['silverlight', 'cli'], ['ml', 'prolog'])	1
+(['junit', 'unit_test', 'java', 'programming_language'], ['esb', 'scm', 'totalview', 'wix'])	1
+(['scss', 'sass', 'scss'], ['stress_load', 'sass', 'stress_load'])	1
+(['unix', 'blackbox'], ['deployment_tag', 'caml'])	1
+(['bitbucket'], ['rexx'])	1
+(['loadrunner'], ['golang'])	1
+(['citrix'], ['elm'])	1
+(['toad', 'non_relational', 'sql'], ['rexx', 'non_relational', 'erlang'])	1
+(['freebsd'], ['smb'])	1
+(['scada'], ['math'])	1
+(['metric'], ['totalview'])	1
+(['yaml'], ['ramdajs'])	1
+(['fortran'], ['rd'])	1
+(['dijkstra'], ['prestashop'])	1
+(['pentaho'], ['soa'])	1
+(['frequentist'], ['chai'])	1
+(['aix', 'mainframe'], ['servlet', 'mainframe'])	1
+(['blackbox'], ['rexx'])	1
+(['soapui'], ['macro'])	1
+(['openstack', 'openstack'], ['webapi', 'btrieve', 'webapi', 'btrieve'])	1
+(['wordpress'], ['docker'])	1
+(['vbscript'], ['tcl'])	1
+(['rstudio'], ['linux'])	1
+(['mockito', 'java'], ['oscommerce', 'xaml'])	1
+(['trifacta'], ['couchdb'])	1
+(['blueprint'], ['shard'])	1
+(['wpf'], ['gradle'])	1
+(['uml'], ['node'])	1
+(['blueprint'], ['vue'])	1
+(['sql'], ['mondrian'])	1
+(['gnus'], [])	1
+(['mvvm'], ['gnucash'])	1
+(['jboss'], ['version_control'])	1
+(['mapreduce'], ['lodash.js'])	1
+(['nhibernate'], ['cento'])	1
+(['wxwidget'], ['ramdajs'])	1
+(['mercurial'], ['talend'])	1
+(['clearqu', 'crm'], ['ood', 'elm'])	1
+(['xdebug', 'php'], ['regression', 'timelinejs'])	1
+(['sphinx'], ['com'])	1
+(['confluence'], ['wordpress'])	1
+(['xen'], ['merb'])	1
+(['vms', 'openvms'], ['dbs', 'sqlserver'])	1
+(['rust'], ['programming_language'])	1
+(['wpf', 'xaml'], ['gnumeric', 'bde'])	1
+(['meteor'], ['mysql'])	1
+(['telerik'], ['obiee'])	1
+(['sourceforge'], ['babel'])	1
+(['memsql'], ['ec2'])	1
+(['openal'], ['trello'])	1
+(['neuroscience'], ['statistic'])	1
+(['stata'], ['erlang'])	1
+(['mvvm'], ['laravel'])	1
+(['hazelcast', 'node'], ['mockito', 'node'])	1
+(['apache'], ['git'])	1
+(['marklogic', 'data_warehouse'], ['glmnet', 'ceph'])	1
+(['citrix'], ['microsoft_excel'])	1
+(['bdb'], ['ramda.js'])	1
+(['vbscript'], ['shell'])	1
+(['sharepoint'], ['dyndns'])	1
+(['balsamiq'], ['jmp'])	1
+(['autocad'], ['dll'])	1
+(['bitbucket'], ['xcode'])	1
+(['openstack'], ['xgboost'])	1
+(['hipchat'], ['angularjs'])	1
+(['sonar'], ['webpack'])	1
+(['statistic'], ['linq'])	1
+(['filemaker'], ['branch'])	1
+(['vmware', 'airwatch'], ['ror', 'kvm'])	1
+(['wireshark'], ['functional_regression'])	1
+(['dax', 'workflow'], ['ci'])	1
+(['appcelerator'], ['tableau'])	1
+(['bsd'], ['cordova'])	1
+(['gremlin', 'oltp', 'olap'], ['zookeeper', 'etl', 'scjp'])	1
+(['borland'], ['powershell'])	1
+(['geoserver'], ['fsm'])	1
+(['datagrid'], ['neural_network'])	1
+(['testcomplete'], ['js'])	1
+(['atf'], ['fiddler'])	1
+(['clearcase'], ['ipython'])	1
+(['autocad'], ['workbench'])	1
+(['xaml', 'workflow'], ['yardis', 'cobol'])	1
+(['marklogic'], ['wsdl'])	1
+(['esx', 'esxi', 'vmware'], ['totalview', 'orm', 'd3'])	1
+(['macport'], ['virtual_machine'])	1
+(['soapui'], ['amazon_web_service'])	1
+(['star_schema', 'snowflake'], ['iaas', 'product_owner'])	1
+(['snowflake', 'star_schema'], ['pdb', 'star_schema'])	1
+(['postgresql'], ['yardis'])	1
+(['gradle'], ['timelinejs'])	1
+(['programming_language', 'operating_system', 'swift'], ['deployment_tag', 'operating_system', 'enzyme'])	1
+(['netbean'], ['programming_language'])	1
+(['cobol'], ['lodashjs'])	1
+(['gaussian'], ['datamining'])	1
+(['hazelcast'], ['hypervisor'])	1
+(['atdd', 'bdd'], ['spotfire', 'btrieve'])	1
+(['gnu'], ['merb'])	1
+(['wordpress', 'fork'], ['servlet', 'merb'])	1
+(['kvm', 'freebsd'], ['elixir', 'varnish'])	1
+(['sqlalchemy'], ['nosql'])	1
+(['fitnesse'], ['atom'])	1
+(['scada'], ['firework'])	1
+(['dynamo', 'dynamodb'], ['winform', 'readline'])	1
+(['citrix'], ['stress_load'])	1
+(['loadrunner'], ['grpc'])	1
+(['apache'], ['totalview'])	1
+(['openvms', 'vms'], ['branch', 'go_lang'])	1
+(['uml'], ['angular'])	1
+(['ai'], ['repo'])	1
+(['cobol'], ['nunit'])	1
+(['openvms'], ['html5'])	1
+(['espresso'], ['regression'])	1
+(['dojo'], ['silverlight'])	1
+(['snowflake'], ['word'])	1
+(['regression'], ['sql'])	1
+(['silverlight'], ['ffmpeg'])	1
+(['mailchimp'], ['phpunit'])	1
+(['addthis'], ['ppt'])	1
+(['regression', 'machine_learn'], ['git', 'visualization'])	1

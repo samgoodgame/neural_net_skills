@@ -1,0 +1,200 @@
+Error 0. -456.960693359375
+Correct: kubernete commonly stylize as k8s be an open source system for automate deployment scaling and management of containerized application that be originally design by google and now maintain by the cloud native computing foundation
+Incorrect: dyndns commonly stylize as k8s be an open source system for automate deployment scaling and management of ramdajs application that be originally design by google and now maintain by the cloud native computing foundation
+
+Error 1. -341.6302490234375
+Correct: the indented syntax and scss file be traditionally give the extension sass and scss respectively
+Incorrect: the indented syntax and stress_load file be traditionally give the extension sass and stress_load respectively
+
+Error 2. -263.3983154296875
+Correct: today -PRON- be maintain by employee of red hat netapp and many other volunteer
+Incorrect: today -PRON- be maintain by employee of red hat ramdajs and many other volunteer
+
+Error 3. -259.28515625
+Correct: although these tool be often develop specifically for use in bdd project -PRON- can be see as specialized form of the tooling that support test drive development
+Incorrect: although these tool be often develop specifically for use in datamining project -PRON- can be see as specialized form of the tooling that support test drive development
+
+Error 4. -249.19921875
+Correct: zookeeper be use by company include rackspace yahoo odnoklassniki reddit netapp solidfire and ebay as well as open source enterprise search system like solr
+Incorrect: glmnet be use by company include rackspace yahoo odnoklassniki reddit blueprint solidfire and ebay as well as open source enterprise search system like solr
+
+Error 5. -249.03765869140625
+Correct: esx esxi be the primary component in the vmware infrastructure software suite
+Incorrect: totalview orm be the primary component in the d3 infrastructure software suite
+
+Error 6. -248.7137451171875
+Correct: balsamiq studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+Incorrect: teamreview studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+
+Error 7. -246.7139892578125
+Correct: a wide choice of compiler and other tool to use with wxwidget facilitate development of sophisticated application
+Incorrect: a wide choice of compiler and other tool to use with ramdajs facilitate development of sophisticated application
+
+Error 8. -242.41455078125
+Correct: gnus blur the distinction between news and e mail treat -PRON- both as article that come from different source
+Incorrect: datamin blur the distinction between news and e mail treat -PRON- both as article that come from different source
+
+Error 9. -239.2247314453125
+Correct: netbackup also enable lan free and server free backup in san fabric environment
+Incorrect: labeled_data also enable lan free and server free backup in san fabric environment
+
+Error 10. -238.526611328125
+Correct: as a podcast advertiser mailchimp also sponsor the launch of serial a podcast explore a murder case over multiple episode
+Incorrect: as a podcast advertiser visual_basic also sponsor the launch of serial a podcast explore a murder case over multiple episode
+
+Error 11. -238.44287109375
+Correct: in with download a day umbraco be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival dotnetnuke and be the 12th most downloaded application from codeplex six place below dotnetnuke and place high than mojoportal
+Incorrect: in with download a day t_sql be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival stress_load django and be the 12th most downloaded application from codeplex six place below stress_load django and place high than mojoportal
+
+Error 12. -230.453369140625
+Correct: coverity be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+Incorrect: v_lookup be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+
+Error 13. -229.665283203125
+Correct: since -PRON- creation the lamp model have be adapt to other componentry though typically consist of free and open source software
+Incorrect: since -PRON- creation the mondrian model have be adapt to other componentry though typically consist of free and open source software
+
+Error 14. -228.80615234375
+Correct: bdb store arbitrary key data pair as byte array and support multiple datum item for a single key
+Incorrect: ramda.js store arbitrary key data pair as byte array and support multiple datum item for a single key
+
+Error 15. -226.923828125
+Correct: in compute open datum protocol odata be an open protocol which allow the creation and consumption of queryable and interoperable restful apis in a simple and standard way
+Incorrect: in compute open datum protocol perl be an open protocol which allow the creation and consumption of queryable and interoperable user_experience_research apis in a simple and standard way
+
+Error 16. -223.1746826171875
+Correct: gremlin work for both oltp base graph_databas as well as olap base graph processor
+Incorrect: zookeeper work for both etl base graph_databas as well as scjp base graph processor
+
+Error 17. -223.013916015625
+Correct: by design a blockchain be inherently resistant to modification of the datum
+Incorrect: by design a gnucash be inherently resistant to modification of the datum
+
+Error 18. -221.88287353515625
+Correct: long produce by spss inc -PRON- be acquire by ibm in
+Incorrect: long produce by stress_load inc -PRON- be acquire by ibm in
+
+Error 19. -221.3282470703125
+Correct: openvpn allow peer to authenticate each other use pre share secret key certificate or username password
+Incorrect: yardis allow peer to authenticate each other use pre share secret key certificate or username password
+
+Error 20. -221.0054931640625
+Correct: clearqu be an enterprise level workflow automation tool from the rational software division of ibm
+Incorrect: gnu be an enterprise level timeline.js automation tool from the rational software division of ibm
+
+Error 21. -220.2772216796875
+Correct: this support role make kde a central development hub and home for many popular application and project like calligra suite krita or digikam
+Incorrect: this support role make model_view_controll a central development hub and home for many popular application and project like calligra suite krita or digikam
+
+Error 22. -218.72265625
+Correct: a useful way to think of a semaphore as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+Incorrect: a useful way to think of a oscommerce as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+
+Error 23. -217.3641357421875
+Correct: xunit be the collective name for several unit_testing framework that derive -PRON- structure and functionality from smalltalk s sunit
+Incorrect: borland be the collective name for several labeled_data framework that derive -PRON- structure and functionality from cmake s sunit
+
+Error 24. -215.3450927734375
+Correct: simple architecture the architecture of zookeeper be quite simple as there be a share hierarchical namespace which help coordinate the process
+Incorrect: simple architecture the architecture of btrieve be quite simple as there be a share hierarchical namespace which help coordinate the process
+
+Error 25. -212.91259765625
+Correct: citrix have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+Incorrect: stress_load have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+
+Error 26. -211.9078369140625
+Correct: blackbox have specific design goal and some functionality be provide only through other application
+Incorrect: rexx have specific design goal and some functionality be provide only through other application
+
+Error 27. -207.4716796875
+Correct: powerpivot complement the sql server core bi component under the vision of one business_intelligence semantic model bism which aim to integrate on disk multidimensional analytic previously know as unify dimensional_model udm with a more flexible in memory tabular model
+Incorrect: powerpivot complement the nlp server core ssrs component under the vision of one mandriva semantic model bism which aim to integrate on disk multidimensional analytic previously know as unified sns udm with a more flexible in memory tabular model
+
+Error 28. -207.3861083984375
+Correct: xen project be currently available for the ia x86 and arm instruction set
+Incorrect: merb project be currently available for the ia x86 and arm instruction set
+
+Error 29. -207.3675537109375
+Correct: blackbox have compliance with the extended window manager hint specification
+Incorrect: slackware have compliance with the extended window manager hint specification
+
+Error 30. -206.129150390625
+Correct: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a webdav server or syncml
+Incorrect: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a oscommerce server or syncml
+
+Error 31. -205.7156982421875
+Correct: in gartner rank marklogic as a visionary in the data_warehouse market
+Incorrect: in gartner rank glmnet as a visionary in the ceph market
+
+Error 32. -203.739013671875
+Correct: mvvm be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+Incorrect: gnucash be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+
+Error 33. -203.44287109375
+Correct: cobol statement have an english like syntax which be design to be self document and highly readable
+Incorrect: lodashjs statement have an english like syntax which be design to be self document and highly readable
+
+Error 34. -202.3193359375
+Correct: in aw comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+Incorrect: in xbmc comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+
+Error 35. -202.15594482421875
+Correct: a first community technology preview of xna build be release on march
+Incorrect: a first community technology preview of pptp build be release on march
+
+Error 36. -199.318115234375
+Correct: the tool serve to add automation to the ubiquitous language that be a central theme of bdd
+Incorrect: the tool serve to add automation to the ubiquitous language that be a central theme of oscommerce
+
+Error 37. -199.0040283203125
+Correct: mercurial have also take step to ease the transition for user of other version_control system particularly subversion
+Incorrect: macro have also take step to ease the transition for user of other ocaml system particularly scilab
+
+Error 38. -198.941650390625
+Correct: bi technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+Incorrect: timeline.js technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+
+Error 39. -198.385986328125
+Correct: atdd encompass many of the same practice as specification by example behavior drive development bdd example drive development edd and support drive development also call story test drive development sdd
+Incorrect: spotfire encompass many of the same practice as specification by example behavior drive development btrieve example drive development edd and support drive development also call story test drive development sdd
+
+Error 40. -196.61669921875
+Correct: xhtml become a world wide web consortium w3c recommendation on january
+Incorrect: foxpro become a world wide web consortium w3c recommendation on january
+
+Error 41. -196.06005859375
+Correct: espresso have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+Incorrect: oracle_db2 have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+
+Error 42. -194.736572265625
+Correct: cucumber be a software tool use by computer programmer for test other software
+Incorrect: yardis be a software tool use by computer programmer for test other software
+
+Error 43. -194.51708984375
+Correct: the web base balsamiq mockup tool be launch in june
+Incorrect: the web base ramda.js mockup tool be launch in june
+
+Error 44. -192.662353515625
+Correct: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the mapreduce framework come into play
+Incorrect: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the lodash.js framework come into play
+
+Error 45. -191.4219970703125
+Correct: -PRON- be maintain by the django software foundation dsf an independent organization establish as a c non profit
+Incorrect: -PRON- be maintain by the mrtg software foundation dsf an independent organization establish as a c non profit
+
+Error 46. -189.4613037109375
+Correct: amazon maintain a software fork of apache hive include in amazon elastic mapreduce on amazon_web_service
+Incorrect: amazon maintain a software gitflow of db2dart versionone include in amazon mingw teamreview on columnar
+
+Error 47. -187.44384765625
+Correct: -PRON- lead developer be michael monty widenius one of the founder of mysql ab and the founder of monty program ab
+Incorrect: -PRON- lead developer be michael monty widenius one of the founder of datamin ab and the founder of monty program ab
+
+Error 48. -186.637451171875
+Correct: in september bitbucket announce -PRON- have reach million developer and team on -PRON- platform
+Incorrect: in september rexx announce -PRON- have reach million developer and team on -PRON- platform
+
+Error 49. -185.93017578125
+Correct: cassandra offer robust support for cluster span multiple datacenter with asynchronous masterless replication allow low latency operation for all client
+Incorrect: prestashop offer robust support for cluster span multiple datacenter with asynchronous masterless replication allow low latency operation for all client
+

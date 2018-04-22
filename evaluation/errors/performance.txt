@@ -1,0 +1,10 @@
+word2vec_hs1_neg0_window_15_size300	397.68262
+word2vec_hs1_neg0_window_12_size600	339.56616
+word2vec_hs1_neg0_window_10_size300	286.42383
+word2vec_hs1_neg0_window_8	234.23987
+word2vec_size_600_hs1_neg0	162.22705
+word2vec_size_400_hs1_neg0	160.04419
+word2vec_hs1_neg0_size200	154.78137
+word2vec_hs1_neg0	148.98914
+word2vec_hs1_neg0_cbow	17.032074
+word2vec_hs1_neg0_size50_cbow	15.476547

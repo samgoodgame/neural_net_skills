@@ -1,0 +1,200 @@
+Error 0. -230.224609375
+Correct: kubernete commonly stylize as k8s be an open source system for automate deployment scaling and management of containerized application that be originally design by google and now maintain by the cloud native computing foundation
+Incorrect: dyndns commonly stylize as k8s be an open source system for automate deployment scaling and management of ramdajs application that be originally design by google and now maintain by the cloud native computing foundation
+
+Error 1. -176.69610595703125
+Correct: the indented syntax and scss file be traditionally give the extension sass and scss respectively
+Incorrect: the indented syntax and stress_load file be traditionally give the extension sass and stress_load respectively
+
+Error 2. -156.8319091796875
+Correct: long produce by spss inc -PRON- be acquire by ibm in
+Incorrect: long produce by stress_load inc -PRON- be acquire by ibm in
+
+Error 3. -156.2833251953125
+Correct: today -PRON- be maintain by employee of red hat netapp and many other volunteer
+Incorrect: today -PRON- be maintain by employee of red hat ramdajs and many other volunteer
+
+Error 4. -145.27783203125
+Correct: in with download a day umbraco be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival dotnetnuke and be the 12th most downloaded application from codeplex six place below dotnetnuke and place high than mojoportal
+Incorrect: in with download a day t_sql be in the top five most popular download via the microsoft web platform installer two place below -PRON- main rival stress_load django and be the 12th most downloaded application from codeplex six place below stress_load django and place high than mojoportal
+
+Error 5. -144.3861083984375
+Correct: a wide choice of compiler and other tool to use with wxwidget facilitate development of sophisticated application
+Incorrect: a wide choice of compiler and other tool to use with ramdajs facilitate development of sophisticated application
+
+Error 6. -140.23431396484375
+Correct: the web base balsamiq mockup tool be launch in june
+Incorrect: the web base ramda.js mockup tool be launch in june
+
+Error 7. -137.81063842773438
+Correct: as of sugarcrm report two million user
+Incorrect: as of mrtg report two million user
+
+Error 8. -133.3597412109375
+Correct: esx esxi be the primary component in the vmware infrastructure software suite
+Incorrect: totalview orm be the primary component in the d3 infrastructure software suite
+
+Error 9. -132.1424560546875
+Correct: simple architecture the architecture of zookeeper be quite simple as there be a share hierarchical namespace which help coordinate the process
+Incorrect: simple architecture the architecture of btrieve be quite simple as there be a share hierarchical namespace which help coordinate the process
+
+Error 10. -131.01947021484375
+Correct: balsamiq studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+Incorrect: teamreview studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+
+Error 11. -130.31927490234375
+Correct: gremlin work for both oltp base graph_databas as well as olap base graph processor
+Incorrect: zookeeper work for both etl base graph_databas as well as scjp base graph processor
+
+Error 12. -130.2862548828125
+Correct: since -PRON- creation the lamp model have be adapt to other componentry though typically consist of free and open source software
+Incorrect: since -PRON- creation the mondrian model have be adapt to other componentry though typically consist of free and open source software
+
+Error 13. -129.064453125
+Correct: powerpivot complement the sql server core bi component under the vision of one business_intelligence semantic model bism which aim to integrate on disk multidimensional analytic previously know as unify dimensional_model udm with a more flexible in memory tabular model
+Incorrect: powerpivot complement the nlp server core ssrs component under the vision of one mandriva semantic model bism which aim to integrate on disk multidimensional analytic previously know as unified sns udm with a more flexible in memory tabular model
+
+Error 14. -128.5001220703125
+Correct: gnus blur the distinction between news and e mail treat -PRON- both as article that come from different source
+Incorrect: datamin blur the distinction between news and e mail treat -PRON- both as article that come from different source
+
+Error 15. -127.215087890625
+Correct: in gartner rank marklogic as a visionary in the data_warehouse market
+Incorrect: in gartner rank glmnet as a visionary in the ceph market
+
+Error 16. -125.3321533203125
+Correct: although these tool be often develop specifically for use in bdd project -PRON- can be see as specialized form of the tooling that support test drive development
+Incorrect: although these tool be often develop specifically for use in datamining project -PRON- can be see as specialized form of the tooling that support test drive development
+
+Error 17. -125.24273681640625
+Correct: by design a blockchain be inherently resistant to modification of the datum
+Incorrect: by design a gnucash be inherently resistant to modification of the datum
+
+Error 18. -124.16082763671875
+Correct: a first community technology preview of xna build be release on march
+Incorrect: a first community technology preview of pptp build be release on march
+
+Error 19. -121.968505859375
+Correct: xunit be the collective name for several unit_testing framework that derive -PRON- structure and functionality from smalltalk s sunit
+Incorrect: borland be the collective name for several labeled_data framework that derive -PRON- structure and functionality from cmake s sunit
+
+Error 20. -121.1240234375
+Correct: a useful way to think of a semaphore as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+Incorrect: a useful way to think of a oscommerce as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+
+Error 21. -119.0538330078125
+Correct: as a podcast advertiser mailchimp also sponsor the launch of serial a podcast explore a murder case over multiple episode
+Incorrect: as a podcast advertiser visual_basic also sponsor the launch of serial a podcast explore a murder case over multiple episode
+
+Error 22. -118.90277099609375
+Correct: netbackup also enable lan free and server free backup in san fabric environment
+Incorrect: labeled_data also enable lan free and server free backup in san fabric environment
+
+Error 23. -117.43408203125
+Correct: -PRON- lead developer be michael monty widenius one of the founder of mysql ab and the founder of monty program ab
+Incorrect: -PRON- lead developer be michael monty widenius one of the founder of datamin ab and the founder of monty program ab
+
+Error 24. -114.9459228515625
+Correct: this support role make kde a central development hub and home for many popular application and project like calligra suite krita or digikam
+Incorrect: this support role make model_view_controll a central development hub and home for many popular application and project like calligra suite krita or digikam
+
+Error 25. -113.4376220703125
+Correct: atdd be closely related to test drive development tdd
+Incorrect: dyndns be closely related to test drive development tdd
+
+Error 26. -112.20001220703125
+Correct: bdb store arbitrary key data pair as byte array and support multiple datum item for a single key
+Incorrect: ramda.js store arbitrary key data pair as byte array and support multiple datum item for a single key
+
+Error 27. -111.66653442382812
+Correct: ntp be design by david l
+Incorrect: mandriva be design by david l
+
+Error 28. -111.4102783203125
+Correct: xen project be currently available for the ia x86 and arm instruction set
+Incorrect: merb project be currently available for the ia x86 and arm instruction set
+
+Error 29. -110.7896728515625
+Correct: blackbox have specific design goal and some functionality be provide only through other application
+Incorrect: rexx have specific design goal and some functionality be provide only through other application
+
+Error 30. -110.39288330078125
+Correct: clearqu be an enterprise level workflow automation tool from the rational software division of ibm
+Incorrect: gnu be an enterprise level timeline.js automation tool from the rational software division of ibm
+
+Error 31. -107.342041015625
+Correct: coverity be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+Incorrect: v_lookup be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+
+Error 32. -107.2197265625
+Correct: citrix have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+Incorrect: stress_load have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+
+Error 33. -107.01199340820312
+Correct: blackbox have compliance with the extended window manager hint specification
+Incorrect: slackware have compliance with the extended window manager hint specification
+
+Error 34. -106.8419189453125
+Correct: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a webdav server or syncml
+Incorrect: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a oscommerce server or syncml
+
+Error 35. -106.595947265625
+Correct: openvpn allow peer to authenticate each other use pre share secret key certificate or username password
+Incorrect: yardis allow peer to authenticate each other use pre share secret key certificate or username password
+
+Error 36. -105.91162109375
+Correct: in compute open datum protocol odata be an open protocol which allow the creation and consumption of queryable and interoperable restful apis in a simple and standard way
+Incorrect: in compute open datum protocol perl be an open protocol which allow the creation and consumption of queryable and interoperable user_experience_research apis in a simple and standard way
+
+Error 37. -105.87492370605469
+Correct: dijkstra in and publish three year later
+Incorrect: prestashop in and publish three year later
+
+Error 38. -103.634521484375
+Correct: espresso have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+Incorrect: oracle_db2 have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+
+Error 39. -103.48016357421875
+Correct: the tool serve to add automation to the ubiquitous language that be a central theme of bdd
+Incorrect: the tool serve to add automation to the ubiquitous language that be a central theme of oscommerce
+
+Error 40. -102.4100341796875
+Correct: frequently there be profit and loss p l responsibility as a key metric for evaluate product manager performance
+Incorrect: frequently there be profit and loss p l responsibility as a key totalview for evaluate product manager performance
+
+Error 41. -101.8603515625
+Correct: list and hash can contain nested list and hash form a tree structure arbitrary graph can be represent use yaml alias similar to xml in soap
+Incorrect: list and hash can contain nested list and hash form a tree structure arbitrary graph can be represent use ramdajs alias similar to xml in soap
+
+Error 42. -100.1552734375
+Correct: cobol statement have an english like syntax which be design to be self document and highly readable
+Incorrect: lodashjs statement have an english like syntax which be design to be self document and highly readable
+
+Error 43. -99.589111328125
+Correct: atdd encompass many of the same practice as specification by example behavior drive development bdd example drive development edd and support drive development also call story test drive development sdd
+Incorrect: spotfire encompass many of the same practice as specification by example behavior drive development btrieve example drive development edd and support drive development also call story test drive development sdd
+
+Error 44. -99.102783203125
+Correct: in aw comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+Incorrect: in xbmc comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+
+Error 45. -99.0562744140625
+Correct: kubuntu kuu buun too be an official flavour of the ubuntu operating_system which use the kde plasma desktop instead of the gnome desktop environment
+Incorrect: orm kuu buun too be an official flavour of the oracle_db2 declarative which use the agile plasma desktop instead of the gnome desktop environment
+
+Error 46. -98.41009521484375
+Correct: in september bitbucket announce -PRON- have reach million developer and team on -PRON- platform
+Incorrect: in september rexx announce -PRON- have reach million developer and team on -PRON- platform
+
+Error 47. -98.055419921875
+Correct: bi technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+Incorrect: timeline.js technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+
+Error 48. -96.849365234375
+Correct: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the mapreduce framework come into play
+Incorrect: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the lodash.js framework come into play
+
+Error 49. -96.5150146484375
+Correct: zookeeper be use by company include rackspace yahoo odnoklassniki reddit netapp solidfire and ebay as well as open source enterprise search system like solr
+Incorrect: glmnet be use by company include rackspace yahoo odnoklassniki reddit blueprint solidfire and ebay as well as open source enterprise search system like solr
+

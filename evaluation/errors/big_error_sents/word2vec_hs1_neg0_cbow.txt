@@ -1,0 +1,200 @@
+Error 0. -18.153945922851562
+Correct: since hipchat have use a freemium model as much of the service be free with some additional feature require organization to pay per month
+Incorrect: since angularjs have use a freemium model as much of the service be free with some additional feature require organization to pay per month
+
+Error 1. -17.75665283203125
+Correct: since -PRON- creation the lamp model have be adapt to other componentry though typically consist of free and open source software
+Incorrect: since -PRON- creation the mondrian model have be adapt to other componentry though typically consist of free and open source software
+
+Error 2. -17.451904296875
+Correct: xunit be the collective name for several unit_testing framework that derive -PRON- structure and functionality from smalltalk s sunit
+Incorrect: borland be the collective name for several labeled_data framework that derive -PRON- structure and functionality from cmake s sunit
+
+Error 3. -16.546829223632812
+Correct: netbackup also enable lan free and server free backup in san fabric environment
+Incorrect: labeled_data also enable lan free and server free backup in san fabric environment
+
+Error 4. -16.090301513671875
+Correct: xen project be currently available for the ia x86 and arm instruction set
+Incorrect: merb project be currently available for the ia x86 and arm instruction set
+
+Error 5. -15.893592834472656
+Correct: today -PRON- be maintain by employee of red hat netapp and many other volunteer
+Incorrect: today -PRON- be maintain by employee of red hat ramdajs and many other volunteer
+
+Error 6. -15.821517944335938
+Correct: by design a blockchain be inherently resistant to modification of the datum
+Incorrect: by design a gnucash be inherently resistant to modification of the datum
+
+Error 7. -15.44537353515625
+Correct: blackbox have specific design goal and some functionality be provide only through other application
+Incorrect: rexx have specific design goal and some functionality be provide only through other application
+
+Error 8. -15.442901611328125
+Correct: coverity be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+Incorrect: v_lookup be a brand of software development product from synopsy consist primarily of static code analysis and dynamic code analysis tool
+
+Error 9. -15.285842895507812
+Correct: bdb store arbitrary key data pair as byte array and support multiple datum item for a single key
+Incorrect: ramda.js store arbitrary key data pair as byte array and support multiple datum item for a single key
+
+Error 10. -14.973785400390625
+Correct: kubernete commonly stylize as k8s be an open source system for automate deployment scaling and management of containerized application that be originally design by google and now maintain by the cloud native computing foundation
+Incorrect: dyndns commonly stylize as k8s be an open source system for automate deployment scaling and management of ramdajs application that be originally design by google and now maintain by the cloud native computing foundation
+
+Error 11. -14.880607604980469
+Correct: dijkstra in and publish three year later
+Incorrect: prestashop in and publish three year later
+
+Error 12. -14.814693450927734
+Correct: as of sugarcrm report two million user
+Incorrect: as of mrtg report two million user
+
+Error 13. -14.811851501464844
+Correct: gremlin work for both oltp base graph_databas as well as olap base graph processor
+Incorrect: zookeeper work for both etl base graph_databas as well as scjp base graph processor
+
+Error 14. -14.799758911132812
+Correct: long produce by spss inc -PRON- be acquire by ibm in
+Incorrect: long produce by stress_load inc -PRON- be acquire by ibm in
+
+Error 15. -14.798614501953125
+Correct: balsamiq studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+Incorrect: teamreview studio be an isv found in march by peldi guilizzoni a former adobe senior software engineer
+
+Error 16. -14.626899719238281
+Correct: gnus blur the distinction between news and e mail treat -PRON- both as article that come from different source
+Incorrect: datamin blur the distinction between news and e mail treat -PRON- both as article that come from different source
+
+Error 17. -14.518112182617188
+Correct: -PRON- lead developer be michael monty widenius one of the founder of mysql ab and the founder of monty program ab
+Incorrect: -PRON- lead developer be michael monty widenius one of the founder of datamin ab and the founder of monty program ab
+
+Error 18. -14.17340087890625
+Correct: matt mackall originate mercurial and have serve as -PRON- lead developer until late
+Incorrect: matt mackall originated talend and have serve as -PRON- lead developer until late
+
+Error 19. -13.577281951904297
+Correct: wireshark be a free and open source packet analyzer
+Incorrect: functional_regression be a free and open source packet analyzer
+
+Error 20. -13.50225830078125
+Correct: a useful way to think of a semaphore as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+Incorrect: a useful way to think of a oscommerce as use in the real world system be as a record of how many unit of a particular resource be available couple with operation to adjust that record safely i e
+
+Error 21. -13.417083740234375
+Correct: citrix have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+Incorrect: stress_load have corporate headquarters in both fort lauderdale florida and santa clara california with subsidiary operation in california and massachusett and additional development center in australia canada denmark germany india and the united kingdom
+
+Error 22. -13.1395263671875
+Correct: espresso have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+Incorrect: oracle_db2 have more caffeine per unit volume than most coffee beverage but because the usual serve size be much small the total caffeine content be less than a mug of standard brew coffee contrary to a common belief
+
+Error 23. -13.035945892333984
+Correct: ntp be design by david l
+Incorrect: mandriva be design by david l
+
+Error 24. -12.767486572265625
+Correct: blackbox have compliance with the extended window manager hint specification
+Incorrect: slackware have compliance with the extended window manager hint specification
+
+Error 25. -12.545242309570312
+Correct: simple architecture the architecture of zookeeper be quite simple as there be a share hierarchical namespace which help coordinate the process
+Incorrect: simple architecture the architecture of btrieve be quite simple as there be a share hierarchical namespace which help coordinate the process
+
+Error 26. -11.936882019042969
+Correct: openvpn allow peer to authenticate each other use pre share secret key certificate or username password
+Incorrect: yardis allow peer to authenticate each other use pre share secret key certificate or username password
+
+Error 27. -11.7159423828125
+Correct: django also provide an optional administrative create read update and delete interface that be generate dynamically through introspection and configure via admin model
+Incorrect: clearquest also provide an optional administrative create read update and delete interface that be generate dynamically through introspection and configure via admin model
+
+Error 28. -11.67867660522461
+Correct: atdd be closely related to test drive development tdd
+Incorrect: dyndns be closely related to test drive development tdd
+
+Error 29. -11.294437408447266
+Correct: citrix acquire sequoia software corp
+Incorrect: mandriva acquire sequoia software corp
+
+Error 30. -11.271286010742188
+Correct: a wide choice of compiler and other tool to use with wxwidget facilitate development of sophisticated application
+Incorrect: a wide choice of compiler and other tool to use with ramdajs facilitate development of sophisticated application
+
+Error 31. -11.222274780273438
+Correct: css3 consist of a series of selector and pseudo selector that group rule that apply to -PRON-
+Incorrect: glmnet consist of a series of selector and pseudo selector that group rule that apply to -PRON-
+
+Error 32. -11.220848083496094
+Correct: to some extent knime can be consider as an sas alternative
+Incorrect: to some extent canvas can be consider as an kubernete alternative
+
+Error 33. -11.096641540527344
+Correct: the tool serve to add automation to the ubiquitous language that be a central theme of bdd
+Incorrect: the tool serve to add automation to the ubiquitous language that be a central theme of oscommerce
+
+Error 34. -11.080718994140625
+Correct: in unix computing blackbox be a stack window manager for the x window system
+Incorrect: in deployment_tag computing caml be a stack window manager for the x window system
+
+Error 35. -10.967300415039062
+Correct: the web base balsamiq mockup tool be launch in june
+Incorrect: the web base ramda.js mockup tool be launch in june
+
+Error 36. -10.85595703125
+Correct: the indented syntax and scss file be traditionally give the extension sass and scss respectively
+Incorrect: the indented syntax and stress_load file be traditionally give the extension sass and stress_load respectively
+
+Error 37. -10.833282470703125
+Correct: this support role make kde a central development hub and home for many popular application and project like calligra suite krita or digikam
+Incorrect: this support role make model_view_controll a central development hub and home for many popular application and project like calligra suite krita or digikam
+
+Error 38. -10.815536499023438
+Correct: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the mapreduce framework come into play
+Incorrect: the use of this model be beneficial only when the optimize distribute shuffle operation which reduce network communication cost and fault tolerance feature of the lodash.js framework come into play
+
+Error 39. -10.805877685546875
+Correct: cobol statement have an english like syntax which be design to be self document and highly readable
+Incorrect: lodashjs statement have an english like syntax which be design to be self document and highly readable
+
+Error 40. -10.773529052734375
+Correct: vba can however control one application from another use ole automation
+Incorrect: timeline.js can however control one application from another use ole automation
+
+Error 41. -10.67608642578125
+Correct: in aw comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+Incorrect: in xbmc comprise more than service span a wide range include compute storage networking database analytic application service deployment management mobile developer tool and tool for the internet of thing
+
+Error 42. -10.537628173828125
+Correct: xhtml become a world wide web consortium w3c recommendation on january
+Incorrect: foxpro become a world wide web consortium w3c recommendation on january
+
+Error 43. -10.483413696289062
+Correct: as a podcast advertiser mailchimp also sponsor the launch of serial a podcast explore a murder case over multiple episode
+Incorrect: as a podcast advertiser visual_basic also sponsor the launch of serial a podcast explore a murder case over multiple episode
+
+Error 44. -10.459095001220703
+Correct: kubuntu be sponsor by canonical ltd
+Incorrect: matplotlib be sponsor by canonical ltd
+
+Error 45. -10.420682907104492
+Correct: confluence be a team collaboration software
+Incorrect: graph_search be a team collaboration software
+
+Error 46. -10.368667602539062
+Correct: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a webdav server or syncml
+Incorrect: for example certain event can be send by traditional email or whole calendar file can be share and edit by use a oscommerce server or syncml
+
+Error 47. -10.342605590820312
+Correct: bi technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+Incorrect: timeline.js technology can handle large amount of structured and sometimes unstructured datum to help identify develop and otherwise create new strategic business opportunity
+
+Error 48. -10.220733642578125
+Correct: mvvm be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+Incorrect: gnucash be invent by microsoft architect ken cooper and t peter specifically to simplify event drive programming of user interface
+
+Error 49. -10.10455322265625
+Correct: although these tool be often develop specifically for use in bdd project -PRON- can be see as specialized form of the tooling that support test drive development
+Incorrect: although these tool be often develop specifically for use in datamining project -PRON- can be see as specialized form of the tooling that support test drive development
+
